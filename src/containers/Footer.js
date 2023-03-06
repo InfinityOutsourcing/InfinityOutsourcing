@@ -62,34 +62,40 @@ export default function Footer() {
     <FooterSection>
       <FooterContent>
         <div className="col">
-          <h4>Head Office</h4>
-          <ul className="list-unstyled">
-            <li>Sehban Ayyub</li>
-            <li>
-              <a href="tel:+919343151193">+919343151193</a>
-            </li>
-            <li>Bhopal,M.P</li>
-          </ul>
+          <span>
+            <h4>Head Office</h4>
+            <ul className="list-unstyled">
+              <li>Sehban Ayyub</li>
+              <li>
+                <a href="tel:+919343151193">+919343151193</a>
+              </li>
+              <li>Bhopal,M.P</li>
+            </ul>
+          </span>
         </div>
         <div className="col">
-          <h4>Branch 1</h4>
-          <ul className="list-unstyled">
-            <li>Subhan Ayyub</li>
-            <li>
-              <a href="tel:+916264334548">+916264334548</a>
-            </li>
-            <li>Indore, M.P</li>
-          </ul>
+          <span>
+            <h4>Branch 1</h4>
+            <ul className="list-unstyled">
+              <li>Subhan Ayyub</li>
+              <li>
+                <a href="tel:+916264334548">+916264334548</a>
+              </li>
+              <li>Indore, M.P</li>
+            </ul>
+          </span>
         </div>
         <div className="col">
-          <h4>Branch 2</h4>
-          <ul className="list-unstyled">
-            <li>Arham Khan</li>
-            <li>
-              <a href="tel:+919826294665">+919826294665</a>
-            </li>
-            <li>Delhi, NCR</li>
-          </ul>
+          <span>
+            <h4>Branch 2</h4>
+            <ul className="list-unstyled">
+              <li>Arham Khan</li>
+              <li>
+                <a href="tel:+919826294665">+919826294665</a>
+              </li>
+              <li>Delhi, NCR</li>
+            </ul>
+          </span>
         </div>
         <div className="col">
           <ul className="list-unstyled social">
