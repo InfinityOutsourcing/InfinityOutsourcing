@@ -39,7 +39,7 @@ export default function Contact() {
         />
         <Card
           heading="Address"
-          linkText="Infinity Outsourcing H no.73 Bismillah Manzil Near Bhandari auto parts Budhwaara Bhopal (M.P)"
+          linkText="Infinity Outsourcing, H no. 73, Bismillah Manzil, Near Bhandari Auto Parts, Budhwaara, Bhopal (M.P.)"
           link="https://maps.app.goo.gl/RxbyDUexwajLMGuK8"
           icon="fas fa-map-signs"
         />
