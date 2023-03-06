@@ -57,7 +57,7 @@ function Navbar() {
     <Header>
       <div className="site-logo">
         {/* <h1 style={{ color: "#ffffff" }}>Logo</h1> */}
-        <img src={logo} style={{ maxHeight: "80px" }}></img>
+        <img src={logo} style={{ maxHeight: "70px" }}></img>
       </div>
       <Nav>
         <ul className="nav-links">
