@@ -100,7 +100,7 @@ export default function About() {
       image:
         "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXIlMjBzY2llbmNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       content: [
-        "We are already dealing with numerous processes such as US IT Recruitment, US Recruitment, International BPO Processes, Domestic BPO Processes, Sales processes, ETC. With clients such as Startek, 5S digital, Techno Task, White feather, Qconnect, and many more.",
+        "We are already dealing with numerous processes such as  US IT Recruitment, US Recruitment, International BPO Processes, Domestic BPO  Processes, Sales processes, ETC. With various clients across the world.",
         "Our partnerships have always been about more than building emotional connections with customers; they are about using artificial intelligence, omnichannel orchestration and providing CX insights & technologies, that has the power for digital transformation We do this across 8 locations, and try our best to be in touch with the candidates and clients for every short change from our side if that is important for client.",
       ],
     },
@@ -109,9 +109,8 @@ export default function About() {
       image:
         "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXIlMjBzY2llbmNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       content: [
-        "The company was established by Mr.Subhan Ayyub in 2015 we started as a freelancer moving to the short clients and got the company registered with jurisdictional authorities.",
-        "The Company also expanded in the form of grooming classes and IT fields we started from BPO's but now we are into many sectors after 2020 Mr.Subhan involved his younger brother Mr.Sehban Ayyub and the entity is running under both the brothers and their  team members. ",
-        "We Started in Bhopal and as of now we are having clients from all over India with 3 outlets  our head office is in Bhopal and other two are in Mumbai and Indore.",
+        "The company was found and established by Mr. Sehban Ayyub in 2019 started as a free lancer moving to the short clients and got the company registered with jurisdictional authorities. The Company also expanded in the form of grooming classes and IT fields we started from BPO's but now we are into many sectors. We Started in Bhopal and as of now we are having clients from all over India with 3 outlets our head office is in Bhopal and other two are in Mumbai and Indore. We started from the single client and now we are in a tie up with more than 100 clients as for now and many more soon.",
+        "We are also into Web Development and dealing with the projects from USA, Canada, Australia and many more. We are having a separate team lead by Mr. Sehban Ayyub with Business developers, Web developers and more.",
       ],
     },
   ];

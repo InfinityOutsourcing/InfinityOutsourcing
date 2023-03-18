@@ -77,7 +77,7 @@ export default function Footer() {
           <span>
             <h4>Branch 1</h4>
             <ul className="list-unstyled">
-              <li>Subhan Ayyub</li>
+              <li>Robert Francis</li>
               <li>
                 <a href="tel:+916264334548">+916264334548</a>
               </li>
